@@ -15,3 +15,5 @@ entity blender is
 		);
 end blender;
 ```
+
+Number of used Slice LUTs on XC6SLX9 = 232
